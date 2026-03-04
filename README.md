@@ -1,10 +1,10 @@
-#Data Science Task: Predictive Model and Report
+# Data Science Task: Predictive Model and Report
 
-###This project covers distint areas such as:
-*Data Prepartion and Cleaning
-*Exploratory Data Analysis
-*Model Building - Linear Regression, KNN (K-Nearest Neighbour Model)
-*Model Evaluation
+### This project covers distint areas such as:
+* Data Prepartion and Cleaning
+* Exploratory Data Analysis
+* Model Building - Linear Regression, KNN (K-Nearest Neighbour Model)
+* Model Evaluation
 
 This project is a report on Student Attendence Rates. This project had recieved a 86.25% score (HD), and creates, analyses and assses predictive models based on the provided data set. 
 The project utilizes historical data of Student Attence Rates to predict a student's attendence by factors of holidays, academic schedules and weather. 
